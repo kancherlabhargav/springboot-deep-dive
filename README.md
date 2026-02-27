@@ -7,7 +7,6 @@ Built for:
   Engineers preparing for backend interviews
   Developers wanting to understand what Spring Boot does internally
 
-   
 
    📚 Topics Covered
 
@@ -58,10 +57,7 @@ Few understand:
 
 This guide connects fundamentals with real backend architecture.
 
-   
-
    👨‍💻 About Me
-
 Java Backend Engineer with 4+ years building enterprise applications using:
 
   Java
@@ -76,7 +72,7 @@ Currently focused on system design & scalable backend architecture.
 
    🌐 Live Guide
 
-👉 https://yourusername.github.io/springboot deep dive enterprise/
+👉 [https://kancherlabhargav.github.io/springboot deep dive enterprise/](https://kancherlabhargav.github.io/springboot-deep-dive-enterprise/)
 
    
 
